@@ -8,6 +8,6 @@ Mam na imię jakoś tam i ogólnie to nie wiem to tu napisać. Nie jestem kreaty
 - Wędkarstwo 
 - Robienie nalewek i soków
 #### kitku.jpg
-![slodkie kitku zobacz jak](https://img-ovh-cloud.zszywka.pl/0/0787/w_3211.jpg)
+[słodkie kitku jpg](https://img-ovh-cloud.zszywka.pl/0/0787/w_3211.jpg)
 #### github
-[mój github](https://github.com/baburujoi)
+ "kod" `https://github.com/baburujoi`
